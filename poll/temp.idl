@@ -1,0 +1,5 @@
+struct temp_msg{
+	long temp;
+	string<128> msg;
+	short room; //@key
+};
